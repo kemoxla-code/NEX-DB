@@ -13,7 +13,7 @@ Designed with a bold visual interface that blends technology and art, NEX-DB del
 ### 1. Install Python
 Make sure you have Python 3.8 or later installed on your machine.  
 Download it from the official site: [python.org](https://www.python.org/downloads/)
-
+youtube  https://youtu.be/FDxCTdkVGKY?si=6XRm57WjB_40aFNK
 ### 2. Clone the Repository
 bash
 git clone https://github.com/username/NEX-DB.git
