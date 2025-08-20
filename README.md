@@ -1,37 +1,41 @@
+#XLA-LAYM
 # NEX-DB 🔍  
 A Smart Tool for Detecting Database Errors with Visual Precision
 
-## ⚡ What is NEX-DB?
-NEX-DB is an innovative tool I developed to detect logical errors and duplicate entries within databases.  
-It provides detailed explanations for each issue and offers smart suggestions for resolution.  
-Designed with a bold visual interface that blends technology and art, NEX-DB delivers an unmatched analytical experience for data professionals.
+## 🔍 What is NEX-DB?
+
+NEX-DB is the **first-of-its-kind** tool that intelligently scans your database for:
+- Logical inconsistencies
+- Duplicate entries
+- Missing or malformed values
+- Structural anomalies
+- Semantic errors
+
+It provides detailed insights and explanations for each detected issue, helping you understand and resolve data problems faster.
 
 ---
 
-## 🛠️ How to Run the Tool
+## 📁 Project Structure
 
-### 1. Install Python
-Make sure you have Python 3.8 or later installed on your machine.  
-Download it from the official site: [python.org](https://www.python.org/downloads/)
-youtube  https://youtu.be/FDxCTdkVGKY?si=6XRm57WjB_40aFNK
-### 2. Clone the Repository
-bash
-git clone https://github.com/username/NEX-DB.git
+The tool is composed of **7 modular Python files**, each responsible for a specific function in the error detection pipeline. This modular design makes it easy to maintain, extend, and integrate into your existing workflows.
+
+---
+
+## 🚀 Features
+
+- ✅ Detects both logical and non-logical errors
+- 🧠 Smart analysis with contextual feedback
+- 🗂️ Modular architecture (7 specialized files)
+- 🐍 Built entirely in Python
+- 📊 Ideal for analysts, data scientists, and developers
+- 🎥 [Watch the demo video] https://youtu.be/FDxCTdkVGKY?si=M6J9BZOjiGMH-Q2z
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/kemoxla-code/NEX-DB
 cd NEX-DB
-
-Create a Virtual Environment (optional but recommended)
-bash
-
-python -m venv venv
-source venv/bin/activate  # For macOS/Linux
-venv\Scripts\activate     # For Windows
-
-Install Required Libraries
-
-bash
 pip install -r requirements.txt
-
-Run the Tool
-
-bash
-python main.py
+py main.py
