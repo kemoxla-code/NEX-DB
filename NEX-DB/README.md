@@ -28,7 +28,7 @@ The tool is composed of **7 modular Python files**, each responsible for a speci
 - 🗂️ Modular architecture (7 specialized files)
 - 🐍 Built entirely in Python
 - 📊 Ideal for analysts, data scientists, and developers
-- 🎥 [Watch the video] https://youtu.be/2ZKoo4tVeQQ?si=gVinvhR-jsxfaKd9
+- 🎥 [Watch the video] https://youtu.be/aWXoyugt1tM?si=Y8SdZDCUmDn9jhCf
 
 ---
 
