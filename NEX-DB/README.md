@@ -26,7 +26,7 @@ It provides **detailed insights and explanations** for each detected issue, help
 - 🗂️ Modular design (7 specialized files)  
 - 🐍 100% Python  
 - 📊 Ideal for analysts, data scientists, and developers  
-- 🎥 [Watch the demo video](https://youtu.be/aWXoyugt1tM?si=Y8SdZDCUmDn9jhCf)  
+- 🎥 [Watch the video](https://youtu.be/aWXoyugt1tM?si=Y8SdZDCUmDn9jhCf)  
 
 ---
 
